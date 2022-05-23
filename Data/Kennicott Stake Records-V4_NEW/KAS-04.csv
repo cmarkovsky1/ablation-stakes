@@ -1,0 +1,16 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.510328,142.977721,727,2018-09-04 00:00:00,74.5,1124,0,1200,New Installation,Debris,1.5,,0,,,,,0,,"Wanqin Guo, Donghui Shanggua, Haidong Han, Ruitang Yang, Pascal Buri"
+61.510106,142.976664,756,2019-06-08 00:00:00,352,846,277.5,1200,Active,Debris,2,,0,,,,,250.20000000000002,,"Donghui Shangguan, Douglas Keller, Andrew Johnson"
+61.509986,142.976331,730,2019-09-03 00:00:00,920.5,278,568.5,1200,Active,Debris,1.5,,0,,,,,511.2,,"Wanqin Guo, Jing Li, Min Xu, Xiufeng Yin"
+61.509797964245,142.975428979843,715,2020-06-11 00:00:00,1200,0,>278.00,1200,Melted Out,Debris,1.5,,0,,,,,>250.20,,"Eric Petersen, David Harvey"
+61.5107120107859,-142.974365986883,712,2020-06-12 00:00:00,-107,1303,0,1200,New Installation,Debris,4,Unsorted cobbles & gravel.,0,,,,,0,Moved installation to east side of clean ice stripe for easier access in future,"Eric Petersen, David Harvey"
+61.5106809977442,142.974156020209,718.698242,2020-07-29 00:00:00,136,1060,243,1200,Active,Debris,4,,0,,,,,218.70000000000002,,"Eric Petersen, Nicole Trenholm"
+,,,2020-09-01 00:00:00,297,899,161,1200,Active,Debris,4,,0,,,,,144.9,,"Brooke Kubby, Andrew Johnson"
+61.510496,142.97333,714.815491,2021-06-08 00:00:00,554,642,257,1200,Active,Debris,4,,0,,,,,231.3,,"Cameron Markovsky, Julian Dann, Eric Petersen"
+61.510418979451,142.973121022805,714.873534999999,2021-07-16 00:00:00,59,387,255,450,Active,Debris,4,,0,,,,,229.5,,Cameron Markovsky
+,,,2021-09-09 00:00:00,351,95,292,450,Active,Debris,4,,0,,,,,262.8,,"Maria Zeitz, Kitrea Takata-Glushkoff"

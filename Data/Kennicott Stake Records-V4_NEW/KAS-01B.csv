@@ -1,0 +1,8 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.4996779896318,142.942149974405,651.445557,2021-07-16 00:00:00,-107,1304,0,1200,New Installation,Debris,3,One clast of cobbles/gravel w/ some sand.,0,,,,,0,,"Eric Petersen, Cameron Markovsky"
+61.499634,142.942,651.732422,2021-09-09 00:00:00,186.5,1010.5,293.5,1200,Active,Debris,3,,0,,,,,264.15000000000003,,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

@@ -1,0 +1,11 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.453166976571,142.922007003799,417.909912,2020-07-27 00:00:00,185,729.4,0,914.4,Active,Debris,,,0,,,,,,"11 cm al exposed below PVC, 24 cm exposed above PVC. Slope has steepened below Hobo installation, producing a tiny ice cliff.","Eric Petersen, Nicole Trenholm"
+,,417.909912,2020-09-02 00:00:00,278,636.4,93,914.4,Active,Debris,,,0,,,,,83.7,"128 cm Al exposed above the PVC structure. Hobo is angled downslope, ~15 degree tilt.","Brooke Kubby, Andrew Johnson"
+,,417.909912,2021-06-09 00:00:00,71,538.6,97.79999999999995,609.6,Active,Debris,,,,,,,,88.01999999999997,Top 5 ft segment of Al pole snapped off; we removed it and replace the Air Temp sensor on th 71 cm of new Al pole exposed.,"Eric Petersen, Cameron Markovsky "
+,,417.909912,2021-07-15 00:00:00,149,460.6,78,609.6,Active,Debris,,,,,,,,70.2,Local steepening due to mass wasting could be throwing off measurements.,"Cameron Markovsky, Eric Petersen"
+,,,2021-09-08 00:00:00,249,360.6,100,609.6,Active,Debris,,,,,,,,90,,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

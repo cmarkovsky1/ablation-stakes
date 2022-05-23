@@ -1,0 +1,14 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.50117,142.94432,,2018-08-31 00:00:00,36,561,0,600,New Installation,Debris,3,,0,,,,,0,,"Wanqin Guo, Donghui Shanggua, Haidong Han, Ruitang Yang, Pascal Buri"
+61.500703,142.943444,679,2019-06-11 00:00:00,296,304,260,600,Active,Ice,0,,0,,,,,231.3,,"Donghui Shangguan, Douglas Keller, Andrew Johnson"
+61.500536,142.943208,678,2019-09-05 00:00:00,600,0,>304.00,600,Melted Out,Ice,0,,0,,,,,>273.60,,"Jing Li, Min Xu, Xiufeng Yin"
+61.5000730287283,142.942857993766,660.587951999999,2020-07-28 00:00:00,-103,1297,0,1200,New Installation,Debris,6,,0,,,,,0,Same location as previous KAS-01; debris depth is heterogeneous due to clast size.,"Eric Petersen, Nicole Trenholm"
+61.5000440273433,142.942770989611,654.292785999999,2020-09-03 00:00:00,90,1104,193,1200,Active,Debris,6,,0,,,,,173.70000000000002,,"Brooke Kubby, Eric Petersen"
+61.499736,142.94226,659.654053,2021-06-10 00:00:00,372,822,282,1200,Active,Debris,6,,0,,,,,253.8,,"Eric Petersen, Cameron Markovsky, Julian Dann"
+61.4996779896318,142.942149974405,651.445557,2021-07-16 00:00:00,84,510,312,600,Active,Debris,6,,0,,,,,280.8,,"Eric Petersen, Cameron Markovsky"
+61.499634,142.942,651.732422,2021-09-09 00:00:00,377.5,216.5,293.5,600,Active,Debris,6,,0,,,,,264.15000000000003,,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

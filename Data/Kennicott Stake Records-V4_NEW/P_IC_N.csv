@@ -1,0 +1,11 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.483598,142.91534,548.253662,2021-06-04 00:00:00,33.5,1166.5,0,1200,New Installation,Ice,0,,0,,,,,0,North-facing Ice cliff,Eric Petersen
+,,,2021-06-05 00:00:00,36,1164,2.5,1200,Active,Ice,0,,0,,,,,2.25,,Eric Petersen
+61.4836470130831,142.915320005267,555.150024,2021-07-13 00:00:00,240,960,204,1200,Active,Ice,0,,0,,,,,183.6,,Cameron Markovsky
+,,,2021-07-17 00:00:00,260,940,20,1200,Active,Ice,0,,0,,,,,18,,Cameron Markovsky
+61.48358,142.91528,544.71283,2021-09-11 00:00:00,535,665,275,1200,Active,Ice,0,,0,,,,,247.5,,"Kitrea Takata-Glushkoff, Maria Zeitz, Eric Petersen"

@@ -1,0 +1,11 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.4611130207777,142.917713038623,457.326171999999,2020-07-27 00:00:00,-20,1207,0,1200,New Installation,Debris,13,Cobbles over sandy gravel,0,,,,,0,,"Eric Petersen, Nicole Trenholm"
+61.4611300360411,142.917718989774,454.055603,2020-09-02 00:00:00,59,1128,79,1200,Active,Debris,13,,,,,,,71.10000000000001,"Stake is in the center of a small bowl-shaped depression, ~1-1.5 m wide by 15-16 cm deep. Probably the same rocks we replaced, producing enhanced melt locally after installation of the stake.","Eric Petersen, Nicole Trenholm"
+61.461081,142.91777,447.46051,2021-06-09 00:00:00,141,1049,82,1200,Active,Debris,10,,,,,,,71.10000000000001,A new excavation was made to measure debris thickness.,"Anna Thompson, Julian Dann"
+61.4610359910875,142.9177618937,429.168091,2021-07-15 00:00:00,225,965,84,1200,Active,Debris,10,,,,,,,75.60000000000001,,"Eric Petersen, Cameron Markovsky"
+,,,2021-09-08 00:00:00,342,848,117,1200,Active,Debris,10,,,,,,,105.3,,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

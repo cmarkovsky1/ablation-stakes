@@ -1,0 +1,17 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.501192,142.945229,,2018-08-31 00:00:00,18,1182,0,1200,New Installation,Ice,0,,0,,,,,0,,"Wanqin Guo, Donghui Shanggua, Haidong Han, Ruitang Yang, Pascal Buri"
+61.500794,142.944331,688,2019-06-11 00:00:00,312,888,294,1200,Active,Ice,0,,0,,,,,264.6,,"Donghui Shangguan, Douglas Keller, Andrew Johnson"
+61.500567,142.944019,677,2019-09-05 00:00:00,962,238,650,1200,Active,Ice,0,,0,,,,,585,,"Jing Li, Min Xu, Xiufeng Yin"
+61.5001730248332,142.943326039239,660,2020-06-20 00:00:00,1200,0,>238.00,1200,Melted Out,Ice,0,,0,,,,,>214.20,,"Eric Petersen, Andrew Johnson"
+61.5001320373266,142.943234005942,659.867675999999,2020-06-20 00:00:00,-79,1279,0,1200,New Installation,Ice,0,,0,,,,,0,,"Eric Petersen, Andrew Johnson"
+61.5000759623944,142.943119006231,658.217406999999,2020-07-28 00:00:00,76,974,305,1050,Active,Ice,0,,0,,,,,274.5,Removed one segment,"Eric Petersen, Nicole Trenholm"
+61.5000320412218,142.943010963499,651.486266999999,2020-09-03 00:00:00,29,721,253,750,Active,Ice,0,,0,,,,,227.70000000000002,Removed two segments.,"Brooke Kubby, Eric Petersen"
+61.499705,142.94252,660.124207,2021-06-10 00:00:00,382,368,353,750,Active,Ice,0,,0,,,,,317.7,,"Eric Petersen, Cameron Markovsky, Julian Dann"
+,,,2021-07-16 00:00:00,,0,>368.00,,Melted Out,,,,,,,,,>331.20,,"Eric Petersen, Cameron Markovsky"
+61.499681007117,142.942451974377,649.096007999999,2021-07-16 00:00:00,-108,1308,0,1200,New Installation,Ice,,,,,,,,0,,"Eric Petersen, Cameron Markovsky"
+61.499612,142.94224,648.830078,2021-09-09 00:00:00,212.5,987.5,320.5,1200,Active,Ice,0,,0,,,,,288.45,,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

@@ -1,0 +1,12 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+,,,2020-06-24 00:00:00,50,677,0,750,New Installation,Debris,23,Cobbles & rocks over sandy gravel & pebbles.,0,,,,,0,,"Eric Petersen, Andrew Johnson,  Ruitang Yang"
+61.4531920384615,142.92196098715,416.913086,2020-07-27 00:00:00,132,595,82,750,Active,Debris,23,,0,,,,,73.8,,"Eric Petersen, Nicole Trenholm"
+,,,2020-09-02 00:00:00,186,541,54,750,Active,Debris,23,,0,,,,,48.6,,"Brooke Kubby, Andrew Johnson"
+,,,2021-06-09 00:00:00,275,452,89,750,Active,Debris,23,,0,,,,,80.10000000000001,,"Eric Petersen, Cameron Markovsky"
+,,,2021-07-15 00:00:00,368,359,93,750,Active,Debris,23,,0,,,,,83.7,,"Cameron Markovsky, Eric Petersen"
+,,,2021-09-08 00:00:00,497.5,229.5,129.5,750,Active,Debris,23,,0,,,,,116.55,May need to check debris thickness on this.,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

@@ -1,0 +1,13 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+61.517436,142.971911,724,2019-06-08 00:00:00,-33,1226,0,1200,New Installation,Debris,7,,0,,,,,0,,"Donghui Shangguan, Haidong Han, Douglas Keller, Andrew Johnson"
+61.5172649826854,142.970886994153,719.224791999999,2020-06-22 00:00:00,77,816,410,900,Active,Debris,7,,0,,,,,369,"Removed two toppled PVC segments after taking measurement. Segment stuck in ice is labeled “3 m,” congruent with two segments having melted out.","Eric Petersen, Ruitang Yang, Andrew Johnson"
+61.5172580257058,142.970820022746,715.853149,2020-07-29 00:00:00,48,695,121,750,Active,Debris,7,,0,,,,,108.9,Removed one segment.,"Eric Petersen, Nicole Trenholm"
+,,,2020-09-01 00:00:00,135,608,87,750,Active,Debris,7,,0,,,,,78.3,"Top of exposed segment appears to be labeled ""4/8."" Maybe this is supposed to mean 4.5 m (from top).","Andrew Johnson, Nicole Trenholm"
+61.517088,142.97028,710.789551,2021-06-08 00:00:00,259,484,124,750,Active,Debris,7,,0,,,,,111.60000000000001,,"Cameron Markovsky, Eric Petersen"
+61.5170799940824,142.9701089859,709.930725,2021-07-16 00:00:00,76,367,117,450,Active,Debris,7,,,,,,,105.3,,"Cameron Markovsky, Eric Petersen"
+,,,2021-09-09 00:00:00,217,226,141,450,Active,Debris,7,,0,,,,,126.9,,"Eric Petersen, Maria Zeitz, Kitrea Takata-Glushkoff"

@@ -1,0 +1,12 @@
+NOTE,"1) Ice density used to calculate mass balance: 0.9 g/cm3.
+2) Stake reading should refers to length of stake above the surface (i.e. measurement from top of stake down to snow, ice, firn or debris surface), the depth of snow/debris should also be measured in that case.
+3) The snow depth should include all snow types (fresh or old), and if density measurement is applicable, please measure densities of all snow types and provide a weighted mean (regarding to their depths).
+4) Please mark the melt out stakes by ""Melted Out"" in Status column. The new or redrilled stakes should be in a new row which is marked by ""New Installation"" in Status column. They were used to calculate some cell values.",Unnamed: 2,Unnamed: 3,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Unnamed: 8,Unnamed: 9,Unnamed: 10,Unnamed: 11,Unnamed: 12,Unnamed: 13,Unnamed: 14,Unnamed: 15,Unnamed: 16,Unnamed: 17,Unnamed: 18,Unnamed: 19
+"Coordinates (Lati, Long, Elev)",,,Date of Measurement,Stake Measurements,,,,,Surface and Depth Measurements,,,,Densities (g/cm3),,,,Mass Balance (g/cm2),Comments,Investigator
+Latitude(N),Longitude(W),Elevation(m),,Length Exposed (cm),Length in Ice (cm),Surface Lowering (cm),Stake Length (cm),Status,Surface Type,Debris Depth (cm),Debris Property,Snow Depth (cm),Snow,Source,Ice/Firn,Source,,,
+,,,2021-06-04 00:00:00,26,1174,0,1200,New Installation,Ice,0,,0,,,,,0,West-facing ice cliffs,Eric Petersen
+61.483342,142.91561,544.311218,2021-06-05 00:00:00,40,1160,14,1200,Active,Ice,0,,0,,,,,12.6,135 cm height above stream surface,Eric Petersen
+61.4832860045135,142.915598032996,549.308716,2021-07-13 00:00:00,495,0,>1160.00,1200,Melted Out,,,,,,,,,>1044.00,Stake was not frozen in; slid out of cliff when perturbed.,Cameron Markovsky
+,,,2021-07-14 00:00:00,14,1186,0,1200,New Installation,Ice,0,,0,,,,,0,,Eric Petersen
+,,,2021-07-17 00:00:00,53,1147,39,1200,Active,Ice,0,,0,,,,,35.1,,Cameron Markovsky
+61.483273,142.91541,532.960938,2021-09-11 00:00:00,485,715,432,1200,Active,Ice,0,,0,,,,,388.8,,"Kitrea Takata-Glushkoff, Maria Zeitz, Eric Petersen"
